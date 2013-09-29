@@ -4,8 +4,9 @@ Reference
 .. toctree::
     :hidden:
 
-    configuration/core.rst
-    configuration/routing.rst
-    configuration/simple_cms.rst
+    configuration/core
+    configuration/routing
+    configuration/simple_cms
+    configuration/tree_browser
 
 .. include:: map.rst.inc
