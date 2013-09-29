@@ -101,7 +101,7 @@ to do it? In this case the reference is the right place for you.
 	bundles/create
 	bundles/phpcr_odm
 	bundles/media
-	bundles/menu
+	bundles/menu/index
 	bundles/routing/index
 	bundles/routing_auto
 	bundles/search
