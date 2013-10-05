@@ -537,6 +537,9 @@ Form Types
 The bundle provides a couple of handy form types for PHPCR and PHPCR-ODM
 specific cases, along with form type guessers.
 
+.. index::
+    single: Form Types
+
 phpcr_odm_reference_collection
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
